@@ -25,7 +25,7 @@ a:focus {
 /* Header & Nav */
 body { overflow-x: hidden; }
 .tm-header {
-	background: #000000;
+	background: #ffffff;
 	height: 80px;
 	position: relative;
 	z-index: 100;
@@ -297,7 +297,7 @@ body { overflow-x: hidden; }
 .section-margin-top { margin-top: 100px; }
 hr { border-top: 1px solid #111010; }
 .tm-section-header {
-	margin-bottom: 70px;
+	margin-bottom: 50px;
 	overflow: hidden;
 }
 .tm-section-title {
